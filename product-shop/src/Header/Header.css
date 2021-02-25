@@ -1,0 +1,10 @@
+.Brand{
+    margin-top: -20px;
+}
+.NavLink{
+    color: white;
+    margin-top: -20px;
+}
+.NavLink:hover{
+    color:yellow
+}
